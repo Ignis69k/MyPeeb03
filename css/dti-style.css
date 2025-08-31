@@ -1,0 +1,46 @@
+h1{
+            text-align: center;
+            color: goldenrod;
+        }
+        h3{
+            text-align: center;
+            color: blue;
+            text-decoration: underline;
+        }
+        #p1{
+            text-align: center;
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+        #p2{
+            text-align: center;
+            margin-left: 150px;
+            margin-right: 150px;
+            color:purple;
+        }
+        img{
+            padding: 10px;
+            border-radius: 10px;
+        }
+        #img1{
+            border: 2px solid red;
+        }
+        #img2{
+            border: 2px solid greenyellow;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+        #img3{
+            border: 2px solid cyan;
+        }
+        #div1{
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            border: 2px solid blue;
+        }
+        #div2{
+            text-align: center;
+            margin-bottom: 150px;
+        }
